@@ -1,0 +1,70 @@
+
+body {
+    text-align: center;
+    background-color: #DBF9FC;
+    background-image: url("https://wallpaperaccess.com/full/1567674.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;
+    color:whitesmoke;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    color :white;
+}
+#logo {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+    font-style: italic;
+    color : whitesmoke;
+}
+#menu  {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: right;
+    color: black;
+    font-style: monospace;
+    display: inline-block;
+    margin-right:50px;
+    margin-left: 50px;
+    
+}
+.files{
+    position: relative;
+    margin-top:300px;
+    font-family: chiller;
+    font-size:30px;
+}
+.files input[type="file"] {
+  font-size: 15px; /* Adjust the font size as desired */
+  padding: 10px 20px; /* Adjust the padding as desired */
+  border-radius:12px;
+  background-color:lightgray;
+  color:black;
+  font-weight: bold;
+
+}
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: oblique;
+    border-radius: 12px;
+    background-color:lightgreen;
+    border: none;
+    color: black;
+    margin-top:25px;
+}
+a{
+    margin-right: 20px ;
+    font-family: chiller;
+    font-style:normal;
+    color:whitesmoke;
+    font-size: 25px;
+    font-weight: bold;
+}

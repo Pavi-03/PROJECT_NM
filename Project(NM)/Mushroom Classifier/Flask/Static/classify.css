@@ -1,0 +1,53 @@
+
+body {
+    text-align: center;
+    background-color: #DBF9FC;
+    background-image: url("https://wallpaperaccess.com/full/1567674.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:cover;
+    color:whitesmoke;
+}
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    color :white;
+}
+#logo {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: left;
+    font-style: italic;
+    color : whitesmoke;
+}
+#menu  {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: right;
+    color: black;
+    font-style: monospace;
+    display: inline-block;
+    margin-right:50px;
+    margin-left: 50px;
+    
+}
+h2{
+    font-size:40px;
+    font-family:Cochin;
+    font-style: oblique;
+    font-weight: bolder;
+    color:aliceblue;
+    margin-top:350px;
+}
+
+a{
+    margin-right: 20px ;
+    font-family: chiller;
+    font-style:normal;
+    color:whitesmoke;
+    font-size: 25px;
+    font-weight: bold;
+}
